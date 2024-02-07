@@ -3,7 +3,12 @@
     Author     : Tyler
 */
 body{
-    background-color: green;
+    background-color: navy;
+	color:beige;
+}
+
+a{
+	color:red;
 }
 
 h1{
