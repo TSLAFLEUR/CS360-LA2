@@ -1,0 +1,38 @@
+/* 
+    Created on : Jan 31, 2024, 12:56:46 PM
+    Author     : Tyler
+*/
+body{
+    background-color: green;
+}
+
+h1{
+        font-size: 100px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: maroon;
+}
+
+li {
+  float: left;
+  background-color:navy;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: maroon;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: blue;
+}
